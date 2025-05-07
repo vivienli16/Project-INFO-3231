@@ -2,7 +2,6 @@ using System;
 
 class InventoryModule
 {
-    // Sample inventory (food item names and their quantities)
     static string[] foodItems = { "Burger", "Fries", "Soda", "Salad" };
     static int[] quantities = { 5, 10, 8, 3 };
 
